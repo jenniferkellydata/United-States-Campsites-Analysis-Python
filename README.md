@@ -7,4 +7,4 @@ Analysis of campsites found in the United States in regards to how many campsite
 
 **Data**
 
-Opensource data from 2017 made available by data.world [here] (https://data.world/caroline/campgrounds).
+Opensource data from 2017 made available by data.world [here](https://data.world/caroline/campgrounds).
