@@ -1,0 +1,151 @@
+,Unnamed: 0,longitude,latitude,name,park_type,dates_open,comments,num_sites,elevation,amenities,state,nearest_town_distance,nearest_town_bearing,city
+51,1091,-88.324,46.325,Deer Lake - State Forest,SF,all year,open all year but snow may block,12,1569.0,NH NR,MI,15.7,N,Crystal Falls
+56,1196,-88.402,46.531,King Lake - Copper County State Forest,SF,all year,open all year but snow may block,6,1662.0,NH NR,MI,6.5,E,Covington
+163,2119,-103.363,48.279,Epping RV Park,CP,early may-mid oct,may be full - check,12,2203.0,WES DP,ND,0.3,W,Epping
+261,2261,-101.327,47.615,Sportsmens Centennial Park,CP,early may-late sep,swim,121,1869.0,E FT DW SH,ND,4.8,SE,Garrison
+335,2374,-98.077,41.987,Elgin City Park,CP,early may-mid oct,swim,8,1926.0,WES DP FT DW SH L$,NE,0.4,NE,Elgin
+346,2388,-97.544,42.502,Gladstone City Park,CP,mid apr-late sep,swim,7,1756.0,E DP FT DW L$,NE,0.2,NW,Wausa
+353,2396,-98.069,40.196,Harbine Park,CP,all year,swim,5,1683.0,WES DP FT DW L$,NE,0.4,S,Nelson
+386,2448,-97.456,41.835,Memorial City Park - Madison,CP,all year,swim,13,1581.0,WES DP FT DW SH L$,NE,0.5,N,Madison
+392,2457,-99.923,41.292,Morgan Municipal Park,CP,all year,swim,30,2546.0,E FT DW SH L$,NE,0.0,N,Callaway
+394,2459,-99.998,40.866,Muny Park,CP,all year,swim,30,2494.0,WE DP FT DW L$,NE,0.9,NW,Cozad
+406,2480,-99.453,40.134,Orleans City RV Park,CP,all year,swim,8,2039.0,WES DP DW,NE,0.2,NE,Orleans
+444,2540,-98.057,41.031,Tooley Park,CP,all year,unknown facilities - tent only,5,1729.0,NH ND NS,NE,3.0,NW,Marquette
+501,2741,-103.435,43.884,Grizzly Creek Primative,NF,mid may-late aug,no towed vehicles - one 28 foot vehicle per site,20,4606.0,NH VT DW RS NP,SD,1.1,SW,Keystone
+591,3082,-89.687,44.921,Rib Mountain State Park,SP,all year,closed for 2010 season,30,1798.0,E DW SH RS PA,WI,3.9,SW,Wausau
+621,3297,-68.859,45.92,Roaring Brook - Baxter State Park,SP,mid may-mid oct,for reservations go to www.baxterstateparkauthority.com/,10,1523.0,NH ND VT NS RS,ME,19.5,N,Millinocket
+630,3328,-71.224,44.572,Milan Hill State Park,SP,early jun-late sep,primitive,10,1722.0,NH ND PT NW NS RS PA,NH,1.9,W,Milan
+679,3581,-77.778,41.723,Lyman Run State Park,SP,early apr-mid dec,2 campgrounds,35,1732.0,E DP FT DW SH RS PA,PA,7.1,W,Galeton
+699,3653,-79.974,37.985,Bolar Mountain,NF,early apr-late nov,3 campgrounds,90,1585.0,E DP DW SH RS,VA,13.3,N,Covington
+724,3726,-81.426,36.746,Raccoon Branch,NF,mid apr-late dec,free wifi,20,2834.0,E DP RS PA,VA,2.2,S,Sugar Grove
+762,3811,-81.129,37.516,Blue Jay - Camp Creek State Park,SP,mid apr-mid oct,tent only,13,2126.0,NH PT DW RS,WV,1.1,W,Camp Creek
+766,3818,-79.108,38.747,Camp Run,NF,all year,high clearance vehicle,10,1650.0,NH ND NS NR N$,WV,4.7,S,Milam
+768,3820,-80.846,37.495,Cedar Branch - Bluestone WMA,SFW,mid apr-mid oct,Fish/Wildlife sites may have few facilitiies,45,1614.0,NH NR L$,WV,12.8,NE,Oakvale
+778,3842,-80.808,37.513,Keatley - Bluestone WMA,SFW,mid apr-mid oct,Fish/Wildlife sites may have few facilitiies,15,1551.0,NH NR L$,WV,4.0,S,Forest Hill
+788,3859,-81.208,37.947,Plum Orchard Lake WMA,SFW,all year,has tables,38,1791.0,NH VT DW NR L$,WV,2.3,W,Scarbro
+795,3867,-80.868,37.474,Shanklins Ferry - Bluestone WMA,SFW,mid apr-mid oct,Fish/Wildlife sites may have few facilitiies,80,1523.0,NH NR L$,WV,11.0,NE,Oakvale
+901,4001,-112.214,36.716,Jacob Lake,NF,mid may-mid oct,drive to North Rim,51,7933.0,NH ND 35ft VT DW NS RS,AZ,0.2,NE,Jacob Lake
+919,4023,-111.481,33.464,Lost Dutchman State Park,SP,all year,$15 on weekdays,70,2070.0,WE DP 35ft FT DW SH RS,AZ,5.2,NE,Apache Junction
+930,4037,-112.12,34.693,Mingus Mountain,NF,mid may-mid oct,steep narrow road - seek alt route,25,7657.0,E ND 22ft VT NW NS NR N$,AZ,6.4,SW,Clarkdale
+944,4059,-111.462,35.028,Pinegrove,NF,early may-late sep,tent pads,46,6962.0,NH DP 33ft FT DW SH RS,AZ,15.6,SE,Flagstaff
+961,4080,-109.71,32.759,Roper Lake State Park,SP,all year,for res. call 928.428.6760,65,3123.0,E DP 45ft FT DW SH RS,AZ,5.2,S,Safford
+995,4118,-110.806,34.288,Upper Canyon Creek,NF,mid may-mid oct,dispersed,10,6524.0,NH ND 16ft VT NW NS NR N$,AZ,15.7,NE,Young
+1115,4244,-107.599,38.688,Crawford State Park,SP,early may-late aug,2 campgrounds,44,6558.0,E FT DW RS PA,CO,1.2,SE,Crawford
+1150,4280,-105.503,38.937,Eleven Mile State Park,SP,mid may-late aug,8 campgrounds around lake,350,8632.0,E FT DW RS PA,CO,8.4,W,Lake George
+1173,4304,-105.596,40.33,Glacier Basin - Rocky Mountain National Park,NP,mid may-mid sep,From 2013 on - may be CLOSED - check,150,8632.0,NH DP 27ft FTVT DW NS RS PA,CO,5.1,SW,Estes Park
+1177,4308,-106.275,39.627,Gore Creek,NF,mid may-mid sep,some secluded walk in sites,25,8789.0,NH ND 55ft VT NW NS NR,CO,5.4,E,Vail
+1181,4312,-105.772,40.503,Grand View,NF,mid jun-mid nov,Tent only,9,10066.0,NH ND VT DW NS NR,CO,36.5,W,Fort Collins
+1206,4337,-107.133,38.041,Hidden Valley,NF,mid jun-mid sep,Tent only,4,9682.0,NH ND VT NW NS NR N$,CO,9.9,E,Lake City
+1224,4356,-108.301,39.168,Island Acres - James M. Robb - Colorado River State Park,SP,early apr-late dec,swimming,60,4790.0,WES DP FTVT DW SH RS,CO,4.8,NE,Palisade
+1229,4361,-104.093,40.385,Jackson Lake State Park,SP,all year,6 campgrounds,250,4455.0,E DP FT DW NS RS PA,CO,4.0,N,Orchard
+1310,4446,-105.164,38.89,Mueller State Park,SP,mid may-late dec,Sites 1-5 view of Pikes Peak.,90,9308.0,E DP FT DW SH RS PA,CO,3.6,S,Divide
+1312,4448,-107.418,37.004,Navajo State Park,SP,all year,5 campgrounds,120,6115.0,WES DP 55ft FT DW SH RS PA,CO,1.7,S,Arboles
+1321,4457,-106.32,38.612,North Fork Reservoir,NF,mid may-mid sep,no rvs,9,11473.0,NH ND 25ft VT NW NS NR L$,CO,18.5,W,Salidas
+1325,4461,-103.265,40.796,North Sterling State Park,SP,all year,4 campgrounds,141,4091.0,E FT DW SH RS PA,CO,12.1,N,Sterling
+1350,4488,-105.283,40.364,Pinewood Reservoir,CP,all year,tent only,22,6624.0,VT DW RS,CO,11.2,W,Loveland
+1353,4491,-107.813,39.212,Pioneer - Vega State Park,SP,mid may-late nov,walk in  tents only,10,7998.0,NH DP VT DW NS RS,CO,9.2,E,Collbran
+1375,4515,-107.736,38.214,Ridgway State Park,SP,mid may-late sep,3 campgrounds,283,7047.0,WES FT DW RS PA,CO,4.3,N,Ridgway
+1377,4517,-107.751,39.633,Rifle Gap State Park,SP,early may-late oct,4 campgrounds,146,5974.0,WES VT DW RS PA,CO,7.0,N,Rifle
+1401,4541,-106.884,39.158,Silver Bar,NF,early jun-late sep,walk to sites only,4,8460.0,NH ND VT DW NS RS,CO,4.2,SW,Aspen
+1429,4571,-104.999,40.161,St. Vrain State Park,SP,early mar-late dec,8 campgrounds,87,4846.0,WES DP 40ft FT DW SH RS PA,CO,4.7,NW,Firestone
+1430,4572,-106.866,40.285,Stagecoach State Park,SP,mid may-late sep,4 campgrounds,100,7339.0,E FT DW RS PA,CO,4.9,E,Oak Creek
+1432,4574,-106.964,40.814,Steamboat Lake State Park,SP,early jun-mid sep,2 campgrounds,178,8107.0,E DP 20ft FT DW SH RS PA,CO,7.9,N,Clark
+1445,4588,-106.734,39.48,Sylvan Lake State Park,SP,all year,2 campgrounds,44,8556.0,NH FT DW SH RS PA,CO,16.3,SE,Gypsum
+1452,4595,-105.89,40.502,The Crags - State Forest State Park,SP,early jun-late nov,no rvs,26,9900.0,NH ND VT NS RS,CO,26.0,SE,Walden
+1503,4650,-104.833,37.601,Yucca - Lathrop State Park,SP,early may-mid oct,small RVs,21,6404.0,NH DP VT DW NS RS,CO,3.3,SW,Walsenburg
+1526,4702,-105.837,35.726,Black Canyon,NF,mid apr-mid nov,wonderful place - the 6 walk in sites are secluded/woodsy,36,8377.0,NH DP VT DW NS RS L$,NM,6.3,NE,Santa Fe
+1533,4709,-107.217,36.881,Buzzard Park,NF,mid may-mid nov,RVs not recommended,4,7300.0,NH ND NW NS NR N$,NM,21.9,E,Gobernador
+1535,4711,-105.498,36.748,Cabresto Lake,NF,mid may-mid sep,no RVs,9,9160.0,NH ND VT NW NS NR N$,NM,6.2,NE,Questa
+1538,4714,-106.344,36.549,Canjilon Lakes,NF,mid jun-mid sep,2 campgrounds,4,9865.0,NH ND 22ft VT NW NS NR,NM,7.9,E,Cebolla
+1560,4736,-105.233,36.188,Coyote Creek State Park,SP,mid may-late aug,Sheltered picnic tables at most sites - well maintained showers,64,7776.0,NH DP 40ft FT DW SH RS PA L$,NM,3.5,N,Guadalupita
+1576,4752,-107.209,33.181,Elephant Butte Lake State Park,SP,early mar-late sep,some huge sites,132,4508.0,E DP 40ft FT DW SH RS PA,NM,4.4,NE,Truth Or Consequences
+1596,4772,-107.57,32.921,Hillsboro City RV Park,CP,all year,mostly long term residents,15,5267.0,WES DP DW SH L$,NM,0.2,W,Hillsboro
+1612,4790,-107.821,34.944,Joe Skeen Campground - El Malpais NCA,BLM,all year,has tables,11,6925.0,NH ND VT NW NS NR N$,NM,14.2,S,Grants
+1682,4860,-106.741,34.652,Senator Willie Chavez Park,CP,all year,electric maybe not working,12,4797.0,E ND FT DW NS,NM,2.1,E,Belen
+1688,4866,-105.725,32.944,Sleepy Grass,NF,mid may-mid sep,closed for 2010 - check in 2011,21,8848.0,NH ND 16ft VT DW NS NR,NM,1.4,SE,Cloudcroft
+1696,4875,-104.401,34.611,Sumner Lake State Park,SP,all year,2 campgrounds,65,4327.0,NH DP FT DW SH RS PA,NM,13.1,NW,Fort Sumner
+1702,4881,-106.014,33.343,Three Rivers Petroglyph National Rec Site,BLM,all year,5 shelters-1 group/handicap site- 2 RV sites,7,5126.0,NH ND VT DW NS NR PA L$,NM,18.6,N,Tularosa
+1716,4896,-108.579,33.401,Willow Creek,NF,mid apr-mid nov,creek water must be purified,9,8015.0,NH ND 17ft VT NW NS NR N$,NM,23.9,SE,Reserve
+1727,4910,-114.653,39.463,Bird Creek Recreation Area,NF,early jun-mid oct,tent only,4,8740.0,NH ND VT DW NS NR NP L$,NV,7.8,NE,McGill
+1730,4916,-114.694,39.191,Cave Lake State Park,SP,all year,2 campgrounds,35,7306.0,35ft FT DW SH NR,NV,11.1,E,Ely
+1762,4957,-115.121,37.3,Pahranegat NWR,USFW,all year,camping only for those engaged in wildlife activities - dispersed along lake road - no generators,15,3389.0,NH ND PT NW NS NR N$,NV,5.1,SE,Alamo
+1765,4962,-115.384,36.13,Red Rock Canyon,BLM,early sep-late may,closed most summer months - shade only over tables,71,3717.0,NH ND 35ft VT DW NS NR,NV,11.8,W,Las Vegas
+1767,4964,-118.311,40.469,Rye Patch State Park,SP,all year,2 campgrounds,45,4091.0,NH DP 45ft FT DW SH NR,NV,21.8,NE,Lovelock
+1768,4965,-117.275,39.12,San Juan Creek,NF,mid may-late oct,unknown facilities,10,7600.0,NH ND NS NR N$,NV,28.1,SW,Austin
+1782,4981,-114.518,36.43,Valley of Fire State Park,SP,all year,2 campgrounds,73,2310.0,WE DP 50ft FT DW SH NR,NV,8.8,SW,Overton
+1785,4985,-114.968,39.212,Ward Mountain,NF,early jun-mid oct,closed for 2012 season,29,7362.0,NH ND 28ft VT DW NS RS,NV,4.9,SW,Ely
+1853,5058,-111.508,40.411,Deer Creek State Park,SP,mid may-mid oct,2 campgrounds,75,5584.0,WES DP FT DW SH RS PA,UT,4.8,W,Wallsburg
+1884,5091,-111.249,38.283,Fruita - Capitol Reef National Park,NP,all year,potable water near dump station,71,5459.0,NH DP 45ft VT DW NS NR L$,UT,9.3,E,Torrey
+1972,5186,-110.397,40.952,Marsh Lake,NF,early jun-late aug,2 campgrounds,46,9406.0,NH ND VT NW NS RS,UT,22.1,S,Mountan View
+2008,5223,-111.669,39.209,Palisade State Park,SP,early apr-late oct,4 campgrounds,75,5922.0,WES DP 40ft FT DW SH RS PA,UT,1.7,NE,Sterling
+2009,5224,-112.655,37.701,Panguitch Lake,NF,early jun-mid sep,2 campgrounds,19,8406.0,NH DP 45ft FT DW NS RS L$,UT,14.6,SW,Panguitch
+2031,5247,-112.309,37.743,Red Canyon,NF,mid may-mid sep,bicycle path,35,7280.0,NH DP 50ft FT DW SH NR,UT,8.8,SE,Panguitch
+2044,5260,-111.394,40.783,Rockport State Park,SP,all year,8 campgrounds,86,6066.0,NH DP 40ft FT DW SH RS PA,UT,4.8,NW,Peoa
+2049,5265,-109.613,37.264,Sand Island,BLM,all year,large RV accomodated,22,4318.0,NH ND VT DW NS NR L$,UT,3.6,SW,Bluff
+2054,5270,-109.675,40.923,Sheep Creek Bay - Flaming Gorge,NF,mid apr-mid sep,dispersed,16,6053.0,NH ND 45ft VT NW NS NR L$,UT,13.6,SW,Flaming Gorge
+2078,5297,-110.454,40.19,Starvation State Park,SP,mid may-late sep,5 campgrounds,54,5778.0,NH 30ft VT DW RS,UT,3.2,NW,Duchesne
+2084,5303,-111.175,40.182,Strawberry Bay - Strawberry Reservoir,COE,early may-mid oct,4 campgrounds,300,7648.0,WES FT DW RS PA,UT,25.8,E,Provo
+2089,5308,-112.175,37.622,Sunset - Bryce National Park,NP,early may-mid oct,walk to sites only,101,8041.0,NH DP 40ft FT DW NS RS PA,UT,0.6,SW,Bryce Canyon
+2093,5312,-111.134,40.618,Taylors Fork ATV,NF,mid may-mid oct,primarily for ATV users,11,7435.0,NH ND VT DW NS NR,UT,7.9,E,Kamas
+2113,5333,-111.489,40.548,Wasatch Mountain State Park,SP,early may-late sep,3 campgrounds,139,6017.0,WES FT DW SH RS PA,UT,6.8,S,Park City
+2126,5346,-111.613,39.162,Willow Lake,NF,mid jun-late oct,off road veh trail - horse trail,10,9282.0,NH PT RS NP,UT,7.5,S,Manti
+2175,5526,-118.6,36.142,Belknap,NF,mid may-late oct,No RVs,13,5064.0,NH ND VT NW NS RS,CA,12.2,E,Springville
+2217,5595,-116.756,33.826,Boulder Basin,NF,early jun-late aug,No RVs,34,7493.0,NH ND 16ft VT DW NS RS PA L$,CA,6.0,N,Idyllwild
+2271,5682,-118.582,35.749,Cedar Creek,NF,mid may-mid oct,No RVs,11,4918.0,NH ND VT DW NS NR,CA,7.7,W,Wofford Heights
+2352,5805,-119.835,37.674,Dry Gulch,NF,all year,walk to sites only,4,1600.0,NH ND VT DW NS RS,CA,14.9,NE,Mariposa
+2365,5830,-120.085,38.952,Emerald Bay State Park,SP,mid may-late dec,As of 2013 - may be CLOSED - check,100,6604.0,NH FT DW SH RS,CA,5.8,W,South Lake Tahoe
+2367,5832,-117.227,36.495,Emigrant - Death Valley National Park,NP,all year,tent only - no shade,10,2100.0,NH ND FT DW NS NR N$,CA,25.0,NE,Panamint Springs
+2375,5846,-120.396,38.869,Fashoda,NF,early jun-late aug,Tent only,30,4902.0,NH ND DW SH RS,CA,12.7,NE,Pollock Pines
+2407,5889,-116.881,33.344,Fry Creek,NF,mid may-mid nov,closed indef.,20,4941.0,NH ND 15ft VT DW NS NR,CA,20.2,NW,Santa Ysabel
+2644,6234,-120.301,38.583,Middlefork Cosumnes,NF,mid may-mid nov,Site no 19 is lg camp at end of campground,19,5259.0,NH ND 30ft VT NW NS NR,CA,28.7,E,Placerville
+2673,6280,-121.933,37.851,Mt. Diablo State Park,SP,all year,3 campgrounds,84,1644.0,NH 20ft FT DW RS,CA,8.3,SE,Walnut Creek
+2721,6357,-116.583,32.958,Paso Picacho - Cuyamaca Rancho State Park,SP,all year,visitor says- bring lots of wood,85,5000.0,NH DP FT DW SH RS PA,CA,8.4,S,Julian
+2725,6365,-120.98,39.724,Peninsula Tent (Family ),NF,mid may-mid oct,Tent Only,25,5095.0,NH ND FT DW NS NR,CA,2.9,N,La Porte
+2748,6400,-120.702,39.757,Plumas - Eureka State Park,SP,mid may-late dec,Tent only,64,5548.0,NH DP 30ft FT DW SH RS,CA,4.8,W,Blairsden
+2878,6601,-122.776,39.885,Sugarfoot,NF,mid may-mid nov,dispersed,5,3789.0,NH ND VT NW NS NR N$,CA,35.0,SW,Red Bluff
+2948,6710,-122.949,39.838,Wells Cabin,NF,mid may-mid nov,No RVs,25,6342.0,NH ND VT DW NS NR N$,CA,16.2,E,Covelo
+2999,6777,-115.075,43.606,Baumgartner,NF,mid may-late aug,2013 - closed indef - fire,39,4938.0,NH ND NS RS PA,ID,9.2,E,Featherville
+3093,6878,-111.197,42.699,Diamond Creek,NF,mid may-mid sep,dispersed,8,6913.0,NH ND VT NW NS NR,ID,11.7,SW,Auburn
+3177,6970,-115.911,44.056,Hot Springs,NF,early jun-mid sep,3 reservable group sites,10,3182.0,NH ND 40ft VT DW NS NR,ID,31.9,NE,Emmett
+3241,7038,-116.897,44.852,McCormick Park,CP,all year,on Snake River,37,1808.0,WES DP 45ft VT DW SH L$,ID,22.2,NW,Cambridge
+3301,7107,-114.925,44.139,Point,NF,early jun-mid sep,No RVs,19,6926.0,NH ND NS RS,ID,5.4,S,Stanley
+3386,7197,-116.121,44.173,Swinging Bridge,NF,early jun-late aug,very nice campground 7/11,11,3694.0,NH ND 30ft VT NW NS RS,ID,18.2,N,Horseshoe Bend
+3506,7325,-107.722,46.075,Captain Clark FAS,SFW,all year,Fish/Wildlife sites may have few facilitiies,5,2782.0,NH ND VT NW NS NR N$,MT,24.3,N,Hardin
+3521,7340,-105.589,47.411,Circle Town Park - Circle,CP,all year,unknown facilities - small trees only,10,2421.0,NH ND FT NS L$,MT,0.4,S,Circle
+3615,7439,-111.515,45.705,Greycliff FAS,SFW,all year,Fish/Wildlife sites may have few facilitiies,12,4324.0,NH ND VT NW NS NR L$,MT,22.5,W,Bozeman
+3630,7455,-113.617,47.446,Holland Lake,NF,mid may-late sep,free wifi,56,4098.0,NH DP 50ft VT DW NS RS,MT,19.5,N,Seeley Lake
+3844,7677,-113.846,47.937,Swan Lake,NF,mid may-late sep,free wifi,36,3176.0,NH ND 50ft VT DW NS RS,MT,0.6,N,Swan Lake
+4000,7892,-121.976,43.499,Crescent Lake,NF,all year,dispersed,55,4993.0,NH ND VT NW NS RS N$,OR,1.7,N,Crescent Lake
+4141,8096,-122.432,42.271,Lily Glen  - Howard Prairie Lake,CP,mid apr-mid oct,horse corrals,12,4557.0,NH ND VT DW NS,OR,15.2,E,Ashland
+4196,8182,-120.387,44.499,Ochoco Divide,NF,all year,dispersed,28,4734.0,NH ND VT NW NS NR N$,OR,26.0,NE,Prineville
+4243,8264,-123.692,45.962,Saddle Mountain State Park,SP,all year,RVs must park in lot - primitive tent sites only,10,1581.0,NH ND NS RS,OR,5.2,NE,Necanicum Junction
+4339,8406,-120.336,44.433,Walton Lake,NF,early jun-late sep,swim in the lake - amazing,45,5240.0,NH ND NS RS,OR,26.3,E,Prineville
+4407,8547,-119.703,48.914,Chopaka Lake - State Forest,SF,see agency web site for open/closed status,steep road,16,2951.0,NH ND VT DW NS NR PA,WA,7.2,NW,Loomis
+4412,8556,-121.177,46.507,Clover Flats- State Forest,SF,see agency web site for open/closed status,gravel-one lane-very steep rd,9,6305.0,NH ND VT DW NS NR PA,WA,32.6,W,Yakima
+4481,8697,-121.83,46.978,Ipsut Creek - Mount Rainier National Park,NP,all year,walk to sites only,12,2352.0,NH ND VT NS NR L$,WA,17.4,SE,Enumclaw
+4498,8739,-122.32,46.095,Lake Merrill- State Forest,SF,see agency web site for open/closed status,Discovery Pass required.,11,1598.0,NH ND VT DW NS NR PA,WA,15.3,NE,Ariel
+4500,8742,-120.728,47.812,Lake Wenatchee State Park,SP,all year,dispersed,200,1962.0,E DP 40ft VT NW SH RS,WA,15.2,N,Leavenworth
+4518,8790,-121.536,47.691,Miller River,NF,early jun-mid sep,Must stop at Money Creek Camp to get key for Miller River Camp,19,4580.0,NH VT NW RS NP,WA,6.1,SW,Baring
+4523,8807,-121.862,46.939,Mowich Lake - Mount Rainier National Park,NP,early jul-mid oct,walk to only,30,4900.0,NH ND NS NR,WA,19.3,S,Enumclaw
+4651,9057,-108.162,43.404,Boysen State Park,SP,all year,6 campgrounds,280,4928.0,RS,WY,11.9,N,Shoshoni
+4655,9063,-109.244,44.502,Buffalo Bill State Park,SP,early may-late oct,2 campgrounds,99,5459.0,NH ND NS RS,WY,9.4,W,Cody
+4684,9095,-109.89,44.471,Eagle Creek,NF,mid may-mid sep,RV only,20,6490.0,NH ND 22ft VT DW NS NR,WY,22.3,W,Wapiti
+4696,9111,-110.669,44.102,Flagg Ranch - Grand Teton National Park,NP,mid may-mid sep,Res. Call: 800.443.2311,175,6814.0,WES DP FT DW SH RS,WY,19.7,NW,Moran
+4704,9119,-105.011,42.485,Glendo State Park,SP,early may-late oct,7 campgrounds,300,4685.0,45ft RS,WY,1.5,SE,Glendo
+4705,9120,-110.447,43.36,Granite Creek,NF,early may-late oct,hot springs,51,6896.0,NH ND 45ft FT DW NS NR N$,WY,14.5,E,Hoback Junction
+4711,9127,-104.769,42.282,Guernsey State Park,SP,all year,7 campgrounds,140,4639.0,DP 45ft RS,WY,3.9,SW,Hartville
+4718,9135,-106.864,41.026,Hog Park,NF,early jul-late aug,formerly Lakeview,17,8458.0,NH ND 50ft VT DW NS RS L$,WY,13.2,S,Encampment
+4727,9146,-110.72,43.754,Jenny Lake - Grand Teton National Park,NP,mid may-mid sep,Tent only,49,6814.0,NH ND FT DW NS NR,WY,6.8,N,Moose
+4729,9148,-104.75,44.356,Keyhole State Park,SP,all year,10 campgrounds,170,4114.0,45ft RS,WY,11.8,NE,Moorcroft
+4784,9215,-110.951,43.758,Reunion Flat,NF,mid may-mid sep,3 group sites plus 4 reservable family sites,7,6850.0,NH ND VT DW NS RS NP,WY,8.3,E,Driggs
+4796,9227,-106.893,42.136,Seminoe State Park,SP,all year,3 campgrounds,95,6421.0,RS,WY,27.4,NE,Sinclair
+4845,9302,-85.808,33.477,Cheaha State Park,SP,all year,4 campgrounds,30,2106.0,WES DP DW SH RS,AL,7.3,W,Delta
+4890,10362,-83.175,35.566,Balsam Mountain - Great Smoky Mountains,NP,mid may-mid oct,From 2013 on - may be CLOSED - check,43,5318.0,NH ND 30ft DW NS NR,NC,11.7,NW,Waynesville
+4892,10365,-83.11,35.753,Big Creek - Great Smoky Mountains,NP,mid mar-mid oct,primitive - river swimming rafting,12,1708.0,NH ND NS NR,NC,33.2,W,Asheville
+4896,10375,-82.205,35.804,Carolina Hemlocks,NF,mid apr-late oct,swim/tube in creek,38,2748.0,NH ND NS RS PA,NC,9.5,SE,Burnsville
+4916,10427,-82.271,35.76,Mount Mitchell State Park,SP,all year,walk to sites only,9,6258.0,NH DW SH RS,NC,19.4,NE,Asheville
+4971,10834,-85.357,35.655,Fall Creek Falls State Park,SP,all year,for reservations phone park directly,238,1764.0,WE DP DW SH RS,TN,10.0,W,Pikeville
+4979,10858,-83.934,35.639,Look Rock - Great Smoky Mountains National Park,NP,mid may-mid oct,from 2013 on - may be CLOSED - check,68,2505.0,NH DP DW NS NR,TN,7.3,NE,Chilhowee
+4996,10935,-103.787,30.946,Balmorhea State Park,SP,all year,Swim in springs,34,3314.0,E DP 45ft DW SH RS,TX,0.2,NE,Toyahvale
+5018,11068,-106.498,31.905,Franklin Mt. State Park - Tom Mays Unit,SP,all year,primitive - few facilities - no fires - get reserv at 915.566.6441,15,4500.0,NH ND VT NW NS RS,TX,10.1,N,El Paso
+5029,11102,-106.043,31.927,Hueco Tanks State Historic Site,SP,all year,for reservations call 915.849.6684,20,4527.0,E DP 40ft FT DW SH RS,TX,28.5,NE,El Paso
